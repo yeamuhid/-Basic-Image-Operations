@@ -34,7 +34,7 @@
       "metadata": {
         "id": "5V8jMdJ0EEyf"
       },
-      "execution_count": 33,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -50,7 +50,7 @@
         "outputId": "36a17524-7186-4166-a34a-4e65f97a6b10",
         "id": "S5q4HEFGcRvk"
       },
-      "execution_count": 34,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -74,7 +74,7 @@
         "outputId": "1c7f22b7-181e-4e3d-f57e-66aeea3ecb93",
         "id": "0dr_PYT6cQcb"
       },
-      "execution_count": 35,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -98,7 +98,7 @@
         "id": "oy7pv-3oEfp2",
         "outputId": "44349c12-bf9c-4a36-dedb-559a093bed01"
       },
-      "execution_count": 36,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -124,12 +124,12 @@
       "metadata": {
         "id": "aCibtLMpCeFc"
       },
-      "execution_count": 36,
+      "execution_count": null,
       "outputs": []
     },
     {
       "cell_type": "code",
-      "execution_count": 37,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
@@ -485,8 +485,7 @@
         " import matplotlib.pyplot as plt\n",
         " from sklearn import linear_model\n",
         " df = pd.read_csv('/content/drive/MyDrive/CODE/homeprices (1).csv')\n",
-        " df\n",
-        ""
+        " df\n"
       ]
     },
     {
@@ -497,7 +496,7 @@
         "plt.scatter(df.area,df.price,color='red',marker='+')"
       ],
       "cell_type": "code",
-      "execution_count": 38,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -545,7 +544,7 @@
         "id": "8f7MDOUoG0vs",
         "outputId": "07532437-a86b-430a-d382-83afad0e23e6"
       },
-      "execution_count": 39,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -978,7 +977,7 @@
         "id": "7YjZbJVjIRLV",
         "outputId": "f7911a32-139f-466f-8835-f2f602c77026"
       },
-      "execution_count": 40,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1012,7 +1011,7 @@
         "id": "ADMBXT_LIrJ7",
         "outputId": "2638f2ad-c372-40d3-f1d3-a91e2f7f56fd"
       },
-      "execution_count": 41,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1038,7 +1037,7 @@
         "id": "39GvjBK_JBms",
         "outputId": "bd5e71e7-90d9-4193-a457-c89d5a8fad07"
       },
-      "execution_count": 42,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1064,7 +1063,7 @@
         "id": "KrzbGZbHJI-z",
         "outputId": "162fd8ce-2f0d-4fa2-b18b-afb756099754"
       },
-      "execution_count": 43,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1095,7 +1094,7 @@
         "id": "k2TO3nAkUrAL",
         "outputId": "3cc00ed1-8de7-4a02-bd7a-770a97fb26a2"
       },
-      "execution_count": 44,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1134,7 +1133,7 @@
         "id": "LL1Su_fHPP-s",
         "outputId": "d6b60972-9587-4d69-aa90-3aff5e133e27"
       },
-      "execution_count": 51,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1535,7 +1534,7 @@
         "outputId": "9b411a36-3f99-49be-c3f2-4ab375cc43e5",
         "id": "Zl1sSV8mSg9u"
       },
-      "execution_count": 52,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1933,7 +1932,7 @@
       "metadata": {
         "id": "NAYw59_gTNnT"
       },
-      "execution_count": 54,
+      "execution_count": null,
       "outputs": []
     }
   ]
